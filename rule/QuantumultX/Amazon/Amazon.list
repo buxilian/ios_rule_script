@@ -8,7 +8,7 @@
 # USER-AGENT: 2
 # TOTAL: 201
 HOST-SUFFIX,a2z.com,Amazon
-HOST-SUFFIX,aboutamazon.cn,Amazon
+# HOST-SUFFIX,aboutamazon.cn,Amazon
 HOST-SUFFIX,aboutamazon.co.uk,Amazon
 HOST-SUFFIX,aboutamazon.com,Amazon
 HOST-SUFFIX,aboutamazon.com.au,Amazon
